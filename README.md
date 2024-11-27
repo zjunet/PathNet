@@ -1,5 +1,7 @@
 # Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network
 
+ <a href='https://ijcai-22.org/'><img src='https://img.shields.io/badge/Conference-IJCAI-magenta'></a>  <a href='https://github.com/horrible-dong/DNRT/blob/main/LICENSE'><img src='https://img.shields.io/badge/License-Apache--2.0-blue'></a> 
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/beyond-homophily-structure-aware-path/node-classification-on-bgp)](https://paperswithcode.com/sota/node-classification-on-bgp?p=beyond-homophily-structure-aware-path)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/beyond-homophily-structure-aware-path/node-classification-on-cornell)](https://paperswithcode.com/sota/node-classification-on-cornell?p=beyond-homophily-structure-aware-path)
