@@ -1,7 +1,17 @@
 # Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/beyond-homophily-structure-aware-path/node-classification-on-bgp)](https://paperswithcode.com/sota/node-classification-on-bgp?p=beyond-homophily-structure-aware-path)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/beyond-homophily-structure-aware-path/node-classification-on-cornell)](https://paperswithcode.com/sota/node-classification-on-cornell?p=beyond-homophily-structure-aware-path)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/beyond-homophily-structure-aware-path/node-classification-on-electronics)](https://paperswithcode.com/sota/node-classification-on-electronics?p=beyond-homophily-structure-aware-path)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/beyond-homophily-structure-aware-path/node-classification-on-nba)](https://paperswithcode.com/sota/node-classification-on-nba?p=beyond-homophily-structure-aware-path)
+
 ## PathNet
 
 PathNet is a structure-aware path aggregation graph neural network that can deal with both homophily and heterophily graphs. 
+
 
 ![PathNet](./Figs_in_paper/PathNet.png)
 
